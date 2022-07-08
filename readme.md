@@ -1,9 +1,3 @@
-# Backend #1
-
-# What is this?
-
-The following instructions and requirements in this repository represent a step in the [Match](https://mvpmatch.co/) community onboarding process. It's a (hopefully) simple take home exercise to be later used as a conversation starter in our technical discussion. It should also help us in reducing the number of technical challenges a user wants you to go through.
-
 # Exercise brief
 
 Design an API for a vending machine, allowing users with a “seller” role to add, update or remove products, while users with a “buyer” role can deposit coins into the machine and make purchases. Your vending machine should only accept 5, 10, 20, 50 and 100 cent coins
